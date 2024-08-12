@@ -1,6 +1,5 @@
 {
     "files.associations": {
-        "value_ramp.h": "c",
-        "pid_regulator.h": "c"
+        "stdio.h": "c"
     }
 }
